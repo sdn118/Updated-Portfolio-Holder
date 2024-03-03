@@ -4,6 +4,7 @@ import Capstone from "../assets/Capstone.jpg";
 import Shrub from "../assets/Shrub.jpg";
 import Game from "../assets/Game.jpg";
 import amazon from "../assets/amazon.jpg";
+import Online_Education from "../assets/Online_Education.jpg";
 
 
 function App() {
@@ -11,7 +12,8 @@ function App() {
     Capstone,
     Shrub,
     Game,
-    amazon
+    amazon,
+    Online_Education
     // Add more image URLs here
   ];
   
